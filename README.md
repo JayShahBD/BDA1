@@ -7,4 +7,4 @@ Below are the steps to execute the program:
 2. Go to the directory path of the cloned repo
 3. Execute the following to run the program in the background
 
-      "$nohup sh Assignment1.sh > Assign1Error.log &"
+      "$nohup sh Assignment1.sh &"
